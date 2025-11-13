@@ -1,4 +1,4 @@
-package BOJ_9012_괄호;
+package week1.BOJ_9012_괄호;
 
 import java.util.Stack;
 import java.util.Scanner;

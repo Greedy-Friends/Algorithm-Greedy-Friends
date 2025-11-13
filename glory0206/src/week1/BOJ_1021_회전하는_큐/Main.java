@@ -1,4 +1,4 @@
-package BOJ_1021_회전하는_큐;
+package week1.BOJ_1021_회전하는_큐;
 
 import java.util.*;
 

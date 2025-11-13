@@ -1,4 +1,4 @@
-package BOJ_12789_도키도키_간식드리미;
+package week1.BOJ_12789_도키도키_간식드리미;
 
 import java.util.*;
 

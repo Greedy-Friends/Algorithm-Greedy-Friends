@@ -1,4 +1,4 @@
-package BOJ_10773_제로;
+package week1.BOJ_10773_제로;
 
 import java.util.Scanner;
 import java.util.Stack;

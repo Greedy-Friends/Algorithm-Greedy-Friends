@@ -1,4 +1,4 @@
-package BOJ_7662_이중_우선순위_큐;
+package week1.BOJ_7662_이중_우선순위_큐;
 
 import java.util.Scanner;
 import java.util.TreeMap;
