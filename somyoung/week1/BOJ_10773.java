@@ -34,3 +34,4 @@ public class BOJ_10773 {
         System.out.print(result);
     }
 }
+
